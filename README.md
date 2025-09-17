@@ -2,6 +2,9 @@
 
 This Power BI dashboard provides an analytical view of workforce data, enabling HR teams and business leaders to monitor employee trends, performance, and organizational health. It consolidates key HR metrics into an interactive platform for data-driven decision-making.
 
+▶️ [Watch Project Walkthrough (Loom Video)]([https://www.loom.com/share/04bf95b322c64c1baf625f58f735e06b?sid=18a5c0a8-2887-47f4-9889-916966ef59b7])
+
+
 ---
 
 ## 📊 Project Overview
